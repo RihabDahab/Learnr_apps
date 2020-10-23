@@ -1,0 +1,12 @@
+name: learnr_app1
+title: learnr_app1
+username:
+account: r-dahab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3081828
+bundleId: 3774386
+url: https://r-dahab.shinyapps.io/learnr_app1/
+when: 1603458938.5036
+asMultiple: FALSE
+asStatic: FALSE
