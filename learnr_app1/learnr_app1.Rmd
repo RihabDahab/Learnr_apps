@@ -7,7 +7,7 @@ runtime: shiny_prerendered
 ---
 
 ```{r setup, include=FALSE}
-library(learnr)
+library("learnr")
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
@@ -24,6 +24,15 @@ x<-5
 x
   
 ```
+```{R import data}
+#set working directory?
+
+data_file <- read.table("./data_tab_format/csew1314teachingopen.tab",
+  sep="\t", header=TRUE)
+
+summary(data_file)
+```
+
 
 <div data-iframe-height></div>
 
