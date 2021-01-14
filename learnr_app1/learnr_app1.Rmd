@@ -30,9 +30,12 @@ x
 data_file <- read.table("./data_tab_format/csew1314teachingopen.tab",
   sep="\t", header=TRUE)
 
-summary(data_file)
 ```
 
+```{R summarise data}
+
+summary(data_file)
+```
 
 <div data-iframe-height></div>
 
