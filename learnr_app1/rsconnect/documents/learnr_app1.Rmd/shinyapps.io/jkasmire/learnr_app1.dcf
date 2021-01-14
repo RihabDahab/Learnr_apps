@@ -1,12 +1,12 @@
 name: learnr_app1
 title: learnr_app1
 username:
-account: r-dahab
+account: jkasmire
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 3081828
-bundleId: 3774386
-url: https://r-dahab.shinyapps.io/learnr_app1/
-when: 1603458938.5036
+appId: 3472769
+bundleId: 4095082
+url: https://jkasmire.shinyapps.io/learnr_app1/
+when: 1610622437.68231
 asMultiple: FALSE
 asStatic: FALSE
